@@ -1,0 +1,25 @@
+{
+  "name": "college-faq-chatbot-server",
+  "version": "1.0.0",
+  "description": "Backend API, Retrieval Engine, and Knowledge Base for College FAQ Chatbot",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate:kb": "node scripts/validate-kb.js",
+    "generate:faq-doc": "node scripts/generate-faq-doc.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0",
+    "vitest": "^2.1.2"
+  }
+}

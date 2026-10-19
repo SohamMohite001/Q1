@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "title": "College Department FAQ Knowledge Base",
+    "department": "Department of Computer Science & Engineering",
+    "dataType": "sample",
+    "verified": false,
+    "version": "1.0.0",
+    "disclaimer": "SAMPLE DATA — NOT VERIFIED COLLEGE INFORMATION. All answers provided are illustrative for academic demonstration and do not reflect real institutional deadlines, fees, or policies.",
+    "description": "Structured FAQ knowledge base for college practical assignment testing and demonstration."
+  },
+  "faqs": [
+    {
+      "id": "FAQ001",
+      "category": "Admissions",
+      "question": "How can I apply for admission to the college?",
+      "answer": "Admission applications must be submitted through the official state centralized admission counseling portal or through the college admissions desk during the official admission cycle. Candidates should verify the formal prospectus on the institutional website.",
+      "keywords": ["apply", "admission", "application", "form", "portal", "process", "procedure", "register", "join", "enrollment"]
+    },
+    {
+      "id": "FAQ002",
+      "category": "Admissions",
+      "question": "What documents are required during the admission verification process?",
+      "answer": "Commonly required verification documents include 10th and 12th standard mark sheets, transfer certificate (TC), migration certificate, category/caste certificate (if applicable), valid government identity proof (such as Aadhaar), and passport-sized photographs.",
+      "keywords": ["documents", "required", "verification", "certificates", "marksheets", "admission", "identity", "proof", "tc"]
+    },
+    {
+      "id": "FAQ003",
+      "category": "Admissions",
+      "question": "Can I apply for admission under lateral entry to the second year?",
+      "answer": "Eligible engineering diploma holders and B.Sc. graduates can apply for direct second-year lateral entry admissions according to state technical education directorate guidelines and seat availability.",
+      "keywords": ["lateral", "entry", "diploma", "second", "year", "direct", "admission", "bsc"]
+    },
+    {
+      "id": "FAQ004",
+      "category": "Admissions",
+      "question": "Is there an institutional or management quota available for admissions?",
+      "answer": "Institutional seats, if applicable, are filled strictly as per state government regulations and regulatory directives. Interested applicants must contact the college administrative office for official vacancy information.",
+      "keywords": ["management", "quota", "institutional", "seat", "direct", "donation", "admission"]
+    },
+    {
+      "id": "FAQ005",
+      "category": "Admissions",
+      "question": "What is the procedure for canceling admission and claiming a fee refund?",
+      "answer": "Admission cancellation requests must be submitted in writing to the student section with original fee receipts. Refunds are processed according to university and regulatory fee refund guidelines based on the withdrawal date.",
+      "keywords": ["cancel", "cancellation", "refund", "withdraw", "withdrawal", "fee", "money", "leave"]
+    },
+    {
+      "id": "FAQ006",
+      "category": "Courses and Eligibility",
+      "question": "What undergraduate academic programs are offered by the department?",
+      "answer": "The department offers a four-year Bachelor of Technology (B.Tech.) / Bachelor of Engineering (B.E.) program in Computer Science and Engineering, covering core computer systems, software engineering, and modern technology tracks.",
+      "keywords": ["undergraduate", "ug", "programs", "btech", "be", "bachelor", "courses", "offered", "degree", "branch"]
+    },
+    {
+      "id": "FAQ007",
+      "category": "Courses and Eligibility",
+      "question": "What is the minimum eligibility criteria for admission into undergraduate engineering programs?",
+      "answer": "Applicants must have passed 10+2 (Higher Secondary) with Physics and Mathematics as mandatory subjects along with Chemistry, Computer Science, or Biology, securing the minimum qualifying percentage prescribed by the admission authority.",
+      "keywords": ["eligibility", "criteria", "minimum", "percentage", "qualifying", "pcm", "12th", "marks", "cutoff"]
+    },
+    {
+      "id": "FAQ008",
+      "category": "Courses and Eligibility",
+      "question": "Are postgraduate and doctoral research programs available in the department?",
+      "answer": "Yes, the department offers a two-year Master of Technology (M.Tech.) program and Ph.D. research opportunities in specialized computing areas subject to university entrance examinations and supervisor availability.",
+      "keywords": ["postgraduate", "pg", "mtech", "masters", "phd", "doctorate", "research", "doctoral"]
+    },
+    {
+      "id": "FAQ009",
+      "category": "Courses and Eligibility",
+      "question": "Can undergraduate students opt for interdisciplinary minors or honors degrees?",
+      "answer": "Eligible undergraduate students who maintain the required cumulative CGPA (without active backlogs) can register for approved honors degrees or minor specializations offered by partnering departments starting in the third semester.",
+      "keywords": ["minor", "honors", "interdisciplinary", "specialization", "cgpa", "elective", "track"]
+    },
+    {
+      "id": "FAQ010",
+      "category": "Courses and Eligibility",
+      "question": "What is the typical student-to-faculty ratio in the department?",
+      "answer": "The department maintains a student-to-faculty ratio in compliance with statutory accreditation guidelines, facilitating personalized academic mentoring, laboratory guidance, and capstone project supervision.",
+      "keywords": ["ratio", "faculty", "student", "teacher", "mentorship", "professors", "strength"]
+    },
+    {
+      "id": "FAQ011",
+      "category": "Fees and Scholarships",
+      "question": "What are the accepted modes of payment for tuition and college fees?",
+      "answer": "Tuition and institutional fees can be remitted securely through the college online ERP portal using net banking, UPI, or debit/credit cards, or through bank demand draft made payable to the college account. Cash payments are not accepted.",
+      "keywords": ["payment", "fee", "tuition", "mode", "online", "net banking", "upi", "draft", "dd", "card"]
+    },
+    {
+      "id": "FAQ012",
+      "category": "Fees and Scholarships",
+      "question": "Are government or institutional scholarships available for meritorious or economically weaker students?",
+      "answer": "Eligible candidates may apply for state and central government scholarship schemes (such as merit-cum-means and reserved category post-matric scholarships) and college freeships by submitting required financial verification documents.",
+      "keywords": ["scholarship", "financial", "aid", "freeship", "merit", "concession", "economic", "assistance"]
+    },
+    {
+      "id": "FAQ013",
+      "category": "Fees and Scholarships",
+      "question": "Can academic fees be paid in installments?",
+      "answer": "College fees are generally due semester-wise or annually as per the published fee schedule. Under exceptional documented hardship, a written petition may be submitted to the Principal/Finance Committee requesting installment consideration.",
+      "keywords": ["installments", "installment", "semester", "split", "fee", "payment", "partial", "delay"]
+    },
+    {
+      "id": "FAQ014",
+      "category": "Fees and Scholarships",
+      "question": "How can I obtain a bonafide certificate or fee structure estimate for an education loan?",
+      "answer": "Admitted students can request an official bonafide certificate and fee estimation breakdown for bank loan processing from the student administrative section or by placing an application via the college portal.",
+      "keywords": ["loan", "education loan", "bank", "bonafide", "certificate", "fee structure", "estimate", "quotation"]
+    },
+    {
+      "id": "FAQ015",
+      "category": "Examinations",
+      "question": "What is the examination and internal evaluation structure in each semester?",
+      "answer": "Courses are evaluated through continuous internal assessment (including mid-term tests, lab practicals, assignments, and quizzes) contributing to internal marks, followed by comprehensive end-semester university examinations.",
+      "keywords": ["examination", "exams", "evaluation", "internal", "mid-semester", "assessment", "marks", "test", "grading"]
+    },
+    {
+      "id": "FAQ016",
+      "category": "Examinations",
+      "question": "What is the minimum mandatory attendance percentage required to appear for examinations?",
+      "answer": "Students are required to maintain a minimum attendance of 75% in theory and practical sessions for each course. Students failing to meet the attendance threshold without sanctioned medical condonation cannot sit for end-semester exams.",
+      "keywords": ["attendance", "75", "percentage", "shortage", "eligibility", "hall ticket", "admit card", "detained"]
+    },
+    {
+      "id": "FAQ017",
+      "category": "Examinations",
+      "question": "What is the procedure if a student fails a course or has backlogs?",
+      "answer": "Students with uncleared courses (backlogs) can register for remedial/supplementary examinations conducted during the following academic semester cycle per university examination ordinances.",
+      "keywords": ["backlog", "fail", "arrear", "supplementary", "re-exam", "remedial", "re-evaluation"]
+    },
+    {
+      "id": "FAQ018",
+      "category": "Examinations",
+      "question": "How can a student apply for verification or revaluation of exam answer scripts?",
+      "answer": "Students dissatisfied with evaluation results may apply for photocopy verification and formal revaluation through the examination controller portal within ten days from the date of score declaration.",
+      "keywords": ["revaluation", "rechecking", "verification", "answer sheet", "re-totalling", "exam results", "paper"]
+    },
+    {
+      "id": "FAQ019",
+      "category": "Examinations",
+      "question": "How is the Cumulative Grade Point Average (CGPA) calculated?",
+      "answer": "CGPA is computed as the weighted average of grade points obtained across all completed courses, where credit weights allocated to each course are multiplied by the grade point and divided by total registered credits.",
+      "keywords": ["cgpa", "sgpa", "gpa", "grade", "grading", "calculate", "credits", "formula"]
+    },
+    {
+      "id": "FAQ020",
+      "category": "Library and Facilities",
+      "question": "What are the operating hours and access rules of the central library?",
+      "answer": "The central library is open Monday through Saturday from 8:30 AM to 8:00 PM, with extended study hall hours during examination periods. Entry and borrowing require a valid student RFID identity card.",
+      "keywords": ["library", "hours", "timings", "reading", "open", "books", "study", "hall", "time"]
+    },
+    {
+      "id": "FAQ021",
+      "category": "Library and Facilities",
+      "question": "How many books can an undergraduate student borrow at one time?",
+      "answer": "Undergraduate students can borrow up to three books simultaneously for a borrowing period of 14 days, renewable once provided no prior reservation has been placed by another borrower.",
+      "keywords": ["borrow", "books", "issue", "limit", "renewal", "loan", "card", "return"]
+    },
+    {
+      "id": "FAQ022",
+      "category": "Library and Facilities",
+      "question": "Does the college provide access to IEEE and digital research libraries?",
+      "answer": "Yes, students and researchers have access to major e-resource databases including IEEE Xplore, ACM Digital Library, and Springer through campus Wi-Fi and remote VPN institutional authentication.",
+      "keywords": ["digital", "library", "ieee", "acm", "journals", "research", "papers", "online", "database"]
+    },
+    {
+      "id": "FAQ023",
+      "category": "Library and Facilities",
+      "question": "What computing and laboratory infrastructure is available in the department?",
+      "answer": "The department features air-conditioned computing centers, dedicated machine learning and data science laboratories, IoT prototyping workbenches, cloud sandbox accounts, and licensed software tooling.",
+      "keywords": ["computing", "labs", "laboratory", "hardware", "software", "infrastructure", "workstations", "computers"]
+    },
+    {
+      "id": "FAQ024",
+      "category": "Library and Facilities",
+      "question": "Are campus hostel and mess facilities available for outstation students?",
+      "answer": "Separate on-campus residential hostels for male and female students offer furnished accommodation, Wi-Fi connectivity, mess catering services, and 24-hour warden security supervision.",
+      "keywords": ["hostel", "accommodation", "stay", "mess", "food", "rooms", "dormitory", "residence"]
+    },
+    {
+      "id": "FAQ025",
+      "category": "Library and Facilities",
+      "question": "Is sports, gymnasium, and recreational infrastructure provided on campus?",
+      "answer": "Yes, campus athletic amenities include a multi-purpose sports ground, basketball courts, badminton courts, an indoor table tennis hall, and a student gymnasium managed by physical education coaches.",
+      "keywords": ["sports", "gym", "gymnasium", "ground", "games", "recreation", "athletics", "fitness"]
+    },
+    {
+      "id": "FAQ026",
+      "category": "Placements and Career Support",
+      "question": "How does the Training and Placement Cell assist students in securing job offers?",
+      "answer": "The Placement Cell coordinates campus recruitment drives, hosts corporate interaction sessions, organizes aptitude preparation bootcamps, and conducts technical mock interview sessions throughout the final year.",
+      "keywords": ["placement", "job", "career", "training", "recruitment", "interview", "campus drives", "hiring"]
+    },
+    {
+      "id": "FAQ027",
+      "category": "Placements and Career Support",
+      "question": "What are the eligibility criteria for participating in campus placement drives?",
+      "answer": "Recruitment eligibility is determined by hiring companies, generally requiring an aggregate CGPA of 6.5 or above, no active backlogs, and adherence to departmental placement registration guidelines.",
+      "keywords": ["placement eligibility", "criteria", "cgpa", "backlogs", "recruitment", "drive", "shortlist"]
+    },
+    {
+      "id": "FAQ028",
+      "category": "Placements and Career Support",
+      "question": "Does the department facilitate student internships during semester breaks?",
+      "answer": "Yes, the departmental internship coordinator approves mandatory summer internships, issues formal No Objection Certificates (NOC) for corporate partners, and oversees internship evaluation credits.",
+      "keywords": ["internship", "intern", "summer", "industry", "noc", "training", "practical", "stipend"]
+    },
+    {
+      "id": "FAQ029",
+      "category": "Placements and Career Support",
+      "question": "Are entrepreneurship and startup incubation resources available for students?",
+      "answer": "The college Innovation and Incubation Center supports student founders with workspace access, technical mentorship, patent application support, and linkages to regional angel and seed grant programs.",
+      "keywords": ["entrepreneurship", "incubation", "startup", "innovation", "seed", "venture", "patent", "funding"]
+    },
+    {
+      "id": "FAQ030",
+      "category": "Department Contact and Student Support",
+      "question": "Where is the department office located and what are its working hours?",
+      "answer": "The departmental administrative office is located on the Second Floor of the Engineering Academic Block. Working hours are 9:00 AM to 5:00 PM, Monday through Friday, excluding public holidays.",
+      "keywords": ["contact", "office", "location", "address", "phone", "email", "reach", "hours", "timing", "admin"]
+    },
+    {
+      "id": "FAQ031",
+      "category": "Department Contact and Student Support",
+      "question": "Who is the Head of the Department (HOD) and how can students schedule an appointment?",
+      "answer": "Students can meet the Head of Department during designated student consultation hours (2:00 PM to 4:00 PM on weekdays) or schedule a formal appointment via the department staff coordinator.",
+      "keywords": ["hod", "head", "department", "appointment", "meeting", "consultation", "contact"]
+    },
+    {
+      "id": "FAQ032",
+      "category": "Department Contact and Student Support",
+      "question": "Is there a faculty mentor or proctor assigned to each student?",
+      "answer": "Yes, every admitted student is assigned a dedicated faculty proctor/mentor who meets students regularly to provide academic monitoring, course selection advice, and personal guidance.",
+      "keywords": ["mentor", "advisor", "faculty", "counseling", "proctor", "guidance", "tutor"]
+    },
+    {
+      "id": "FAQ033",
+      "category": "Department Contact and Student Support",
+      "question": "How does the college address student grievances and anti-ragging complaints?",
+      "answer": "The institution maintains a zero-tolerance policy regarding ragging and harassment. Students can file confidential concerns with the Anti-Ragging Committee or through the online Student Grievance Redressal Portal.",
+      "keywords": ["grievance", "anti-ragging", "ragging", "complaint", "harassment", "redressal", "discipline", "safety"]
+    },
+    {
+      "id": "FAQ034",
+      "category": "Department Contact and Student Support",
+      "question": "What medical and emergency healthcare facilities are available on campus?",
+      "answer": "A campus health clinic staffed with a full-time resident nurse and visiting physicians handles primary healthcare and first aid, supported by an on-call ambulance for emergency hospital transfers.",
+      "keywords": ["medical", "health", "doctor", "emergency", "clinic", "first aid", "hospital", "ambulance"]
+    }
+  ]
+}
